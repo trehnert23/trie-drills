@@ -43,5 +43,5 @@ Let's spend the first day trying to handroll our own Trie data structure.  For a
 	-  an indication whether or not the node is the last letter in a valid word
 
 
-**Suggested Implementation: ** Talk out how you would go about adding a single word into a fresh and empty Trie.  Write some pseudocode.  Talk out how you would add a second word similar in spelling to the first word, such as `rockslide` & `rockbiter`. Write some pseudocode. Now talk out how you would handle adding a word that is contained within other words, such as `rock` in this case.  Write some more pseudocode!  Try out what you've written down and see what happens.
+**Suggested Implementation:** Talk out how you would go about adding a single word into a fresh and empty Trie.  Write some pseudocode.  Talk out how you would add a second word similar in spelling to the first word, such as `rockslide` & `rockbiter`. Write some pseudocode. Now talk out how you would handle adding a word that is contained within other words, such as `rock` in this case.  Write some more pseudocode!  Try out what you've written down and see what happens.
 
